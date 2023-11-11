@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Upper-Side{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 2px solid #EEEEEE;
+    border-bottom: 2px solid #EEEEEE;
+    padding: 15px 20px;
+    margin-top: 15px;
+}
